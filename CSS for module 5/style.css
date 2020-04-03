@@ -1,0 +1,44 @@
+body 
+p.para1 {   
+ color:red;
+}
+P.para2 {
+    color: blue;
+}
+
+p.para3 { color: green;
+
+}
+p.para4 {
+    font-size: large;
+}
+
+p.para5{
+    font-size: small;
+}
+
+p.para6 {
+   text-align: centered;
+}
+
+p.bold {
+    font-weight: bold;
+}
+p.fontfam {
+    font-family:helvetica;
+
+}
+p.combo {
+    color: orange;
+    font-size: x-larger;
+    font-weight: bold;
+
+}
+.styledFont {
+    color:green;
+}
+#styledImage {
+    border-width: 10px;
+    border-color:orange;
+    border-style: solid;
+}
